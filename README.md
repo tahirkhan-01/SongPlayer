@@ -1,8 +1,4 @@
-Certainly! Here's a description for your GitHub repository:
-
----
-
-**SongPlayer**
+## SongPlayer
 
 **Description:**
 SongPlayer is a simple yet elegant web application built using HTML, CSS, and JavaScript. It allows users to play their favorite songs directly from their browser. With a clean and intuitive user interface, SongPlayer provides an enjoyable listening experience for music enthusiasts of all levels.
